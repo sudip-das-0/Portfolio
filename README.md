@@ -112,12 +112,28 @@ A `.nojekyll` file is included to disable Jekyll processing.
 
 ### Manual Deployment
 
+For project sites (e.g., github.com/username/repo), GitHub Pages serves from the `/docs` folder on the `master` or `main` branch by default.
+
 1. Build the site:
    ```sh
    hugo --minify
    ```
-2. Copy the contents of the `public/` directory (including `.nojekyll`) to the branch GitHub Pages is serving from (e.g., `gh-pages`).
-3. Push to GitHub.
+2. Copy the contents of the `public/` directory (including `.nojekyll`) into a `/docs` folder at the root of your repository:
+   ```sh
+   rm -rf docs
+   cp -r public docs
+   ```
+3. Commit and push the `/docs` folder to the `master` branch:
+   ```sh
+   git add docs
+   git commit -m "Deploy site to docs folder"
+   git push
+   ```
+4. In your repository settings, ensure GitHub Pages is set to serve from the `/docs` folder on the `master` branch.
+
+After a few minutes, your site should be live at the URL provided by GitHub Pages.
+
+If you prefer to use a `gh-pages` branch, push the contents of `public/` to that branch and configure GitHub Pages accordingly.
 
 ### GitHub Actions Deployment
 
