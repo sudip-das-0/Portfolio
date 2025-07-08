@@ -1,6 +1,7 @@
 baseURL = 'https://sudip-das-0.github.io/Portfolio/'
 title = 'Sudip Das - Machine Learning Engineer'
 theme = 'hugo-book'
+publishDir = "docs/Portfolio"
 
 # Book configuration
 disablePathToLower = true
