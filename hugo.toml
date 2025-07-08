@@ -34,7 +34,7 @@ enableGitInfo = false
 
 [[menu.after]]
   name = "View Resume"
-  url = "/cv.pdf"
+  url = "cv.pdf"
   weight = 30
 
 [params]
