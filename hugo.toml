@@ -1,0 +1,63 @@
+baseURL = 'https://sudip-das.github.io/'
+title = 'Sudip Das - Machine Learning Engineer'
+theme = 'hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = false
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content'
+  weight = 1
+
+[menu]
+[[menu.after]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/sudip-das-0/"
+  weight = 10
+
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/sudip-das"
+  weight = 20
+
+[params]
+  # Sets color theme: light, dark or auto
+  BookTheme = 'auto'
+
+  # Controls table of contents visibility on right side of pages
+  BookToC = true
+
+  # Set the path to a favicon file
+  BookFavicon = 'favicon.png'
+
+  # Specify section of content to render as menu
+  BookSection = 'docs'
+
+  # Configure the date format used on the pages
+  BookDateFormat = 'January 2, 2006'
+
+  # Enables search function with flexsearch
+  BookSearch = true
+
+  # Disable comments for personal website
+  BookComments = false
+
+  # Enables portable links and link checks in markdown pages
+  BookPortableLinks = true
+
+  # Enables service worker that caches visited pages and resources for offline use
+  BookServiceWorker = true
+
+  # Disable translation dropdown since this is single language
+  BookTranslatedOnly = false
