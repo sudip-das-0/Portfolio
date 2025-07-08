@@ -28,7 +28,7 @@ enableGitInfo = false
 
 [[menu.after]]
   name = "GitHub"
-  url = "https://github.com/sudip-das"
+  url = "https://github.com/sudip-das-0"
   weight = 20
 
 [params]
