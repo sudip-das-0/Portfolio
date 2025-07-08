@@ -106,8 +106,55 @@ For full theme documentation and advanced customization, see the [hugo-book READ
 
 ## Deployment
 
-- The site is configured for deployment to GitHub Pages at [https://sudip-das.github.io/](https://sudip-das.github.io/)
-- To deploy, build the site with `hugo --minify` and push the contents of the `public/` directory to your `gh-pages` branch or configure GitHub Actions for automatic deployment.
+**Important:** GitHub Pages uses Jekyll by default, which is not compatible with Hugo sites.  
+To deploy a Hugo site, you must build the site and publish the contents of the `public/` directory.  
+A `.nojekyll` file is included to disable Jekyll processing.
+
+### Manual Deployment
+
+1. Build the site:
+   ```sh
+   hugo --minify
+   ```
+2. Copy the contents of the `public/` directory (including `.nojekyll`) to the branch GitHub Pages is serving from (e.g., `gh-pages`).
+3. Push to GitHub.
+
+### GitHub Actions Deployment
+
+You can automate deployment with GitHub Actions.  
+Below is a sample workflow (`.github/workflows/gh-pages.yml`):
+
+```yaml
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (if any)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # Ensure .nojekyll is included
+```
+
+For more details, see the [Hugo deployment guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
 
 ---
 
