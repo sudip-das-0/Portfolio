@@ -4,7 +4,7 @@ type = "docs"
 +++
 
 <p align="center">
-  <img src="/photo.jpg" alt="Sudip Das" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem;">
+  <img src="{{ "photo.jpg" | relURL }}" alt="Sudip Das" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem;">
 </p>
 
 # Sudip Das
