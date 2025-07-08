@@ -31,6 +31,11 @@ enableGitInfo = false
   url = "https://github.com/sudip-das-0"
   weight = 20
 
+[[menu.after]]
+  name = "View Resume"
+  url = "/cv.pdf"
+  weight = 30
+
 [params]
   # Sets color theme: light, dark or auto
   BookTheme = 'auto'

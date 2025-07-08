@@ -3,9 +3,7 @@ title = "Welcome"
 type = "docs"
 +++
 
-<p align="center">
-  ![Sudip Das](photo.jpg)
-</p>
+<img src="/Portfolio/photo.jpg" alt="Sudip Das" style="border-radius: 40px; width: 170px; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;">
 
 # Sudip Das
 ## Machine Learning Engineer
@@ -64,7 +62,7 @@ I am a Machine Learning Engineer with a strong background in AI, NLP, Computer V
 
 <p>
   <a href="/cv.pdf" target="_blank" style="display:inline-block; background:#007bff; color:#fff; padding:0.6em 1.2em; border-radius:6px; text-decoration:none; font-weight:600; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:1em;">
-    📄 Download Resume (PDF)
+    View Resume
   </a>
 </p>
 
