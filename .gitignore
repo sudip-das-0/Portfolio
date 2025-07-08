@@ -37,10 +37,6 @@ node_modules/
 # Dependency directories
 vendor/
 
-# Static site output (if you ever build to static/)
-static/cv.pdf
-static/photo.jpg
-
 # Ignore local config
 config.toml
 config.yaml
