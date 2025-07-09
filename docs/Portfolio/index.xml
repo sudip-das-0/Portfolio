@@ -6,7 +6,42 @@
     <description>Recent content in Welcome on Sudip Das - Machine Learning Engineer</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/Portfolio/docs/about/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/docs/about/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/Portfolio/photo.jpg&#34; alt=&#34;Sudip Das&#34; style=&#34;border-radius: 40px; width: 170px; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;&#34;&gt;&#xA;&lt;h1 id=&#34;sudip-das&#34;&gt;&#xA;  Sudip Das&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sudip-das&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;&lt;br&gt;&#xA;&#xA;  &lt;a href=&#34;mailto:sudipdsf@gmail.com&#34;&gt;sudipdsf@gmail.com&lt;/a&gt;  |  (+91) 7980633486  |  &#xA;  &lt;a href=&#34;https://www.linkedin.com/in/sudip-das-0/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;&#xA;  About Me&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about-me&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am a Machine Learning Engineer with a strong background in AI, NLP, Computer Vision, and Generative AI. I specialize in building scalable, production-grade ML systems, with hands-on experience in LLMs, RAG, prompt engineering, and MLOps. My work spans legal tech, document automation, and AI-powered platforms, delivering real-world impact and cost savings for global clients.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects &amp; Experience</title>
+      <link>http://localhost:1313/Portfolio/docs/showcase/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/docs/showcase/</guid>
+      <description>&lt;h1 id=&#34;projects--experience&#34;&gt;&#xA;  Projects &amp;amp; Experience&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#projects--experience&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A selection of impactful projects and roles, showcasing expertise in machine learning, generative AI, NLP, computer vision, and scalable AI systems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ai-powered-legal-document-automation-platform&#34;&gt;&#xA;  AI-Powered Legal Document Automation Platform&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ai-powered-legal-document-automation-platform&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Outsourced.co (NZ LegalTech SaaS)&lt;br&gt;&#xA;&lt;strong&gt;Role:&lt;/strong&gt; AI/ML Engineer II&lt;br&gt;&#xA;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, FastAPI, MongoDB, Milvus, Azure AI Foundry&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed and deployed an LLM-driven platform automating legal document generation, streamlining compliance for New Zealand legal workflows.&lt;/li&gt;&#xA;&lt;li&gt;Designed robust preprocessing pipelines for extracting structured data from PDFs, HTML, and more.&lt;/li&gt;&#xA;&lt;li&gt;Engineered a modular prompt templating system for high-quality, legally compliant document generation.&lt;/li&gt;&#xA;&lt;li&gt;Implemented a Milvus-powered RAG workflow for semantic invoice search and contextualization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;graph-based-ai-agents&#34;&gt;&#xA;  Graph-Based AI Agents&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#graph-based-ai-agents&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; Internal B2B Product (Second Brain)&lt;br&gt;&#xA;&lt;strong&gt;Role:&lt;/strong&gt; AI/ML Engineer I&lt;br&gt;&#xA;&lt;strong&gt;Tech Stack:&lt;/strong&gt; LangGraph, Langchain, FastAPI, Celery, Azure ML Studio, ElasticSearch, MongoDB, Qdrant, RAGAS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/Portfolio/docs/publications/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/docs/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;&#xA;  Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;peer-reviewed-papers&#34;&gt;&#xA;  Peer-Reviewed Papers&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#peer-reviewed-papers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Image Caption Generator using Siamese Graph Convolutional Networks and LSTM&lt;/strong&gt;&lt;br&gt;&#xA;Athulkumar R, Aarchi Agrawal, K S Ashin Shanly, &lt;strong&gt;Sudip Das&lt;/strong&gt;, Nidhin Harilal&lt;br&gt;&#xA;&#xA;  &lt;a href=&#34;https://dl.acm.org/doi/fullHtml/10.1145/3493700.3493754&#34;&gt;ACM IKDD CODS 2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Automatic Epilepsy Detection from EEG signals&lt;/strong&gt;&lt;br&gt;&#xA;Vridhi Rohira, Shivam Chaudhary, &lt;strong&gt;Sudip Das&lt;/strong&gt;, Krishna Prasad Miyapuram&lt;br&gt;&#xA;&#xA;  &lt;a href=&#34;https://dl.acm.org/doi/fullHtml/10.1145/3570991.3570995&#34;&gt;ACM IKDD CODS 2023&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;preprints&#34;&gt;&#xA;  Preprints&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#preprints&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Improving self-supervised pretraining models for epileptic seizure detection from EEG data&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Sudip Das&lt;/strong&gt;, Pankaj Pandey, Krishna Prasad Miyapuram&lt;br&gt;&#xA;&#xA;  &lt;a href=&#34;https://arxiv.org/abs/2207.06911&#34;&gt;arXiv Preprint&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Achievements</title>
+      <link>http://localhost:1313/Portfolio/docs/achievements/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/docs/achievements/</guid>
+      <description>&lt;h1 id=&#34;achievements&#34;&gt;&#xA;  Achievements&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#achievements&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;All India Rank 8&lt;/strong&gt; – JEST 2020 (IMSc)&lt;br&gt;&#xA;Cleared Round 2 (March 2020)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;All India Rank 616&lt;/strong&gt; – GATE 2020 (IIT Delhi)&lt;br&gt;&#xA;Percentile: 99.4% (April 2020)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;NPTEL Course DBMS&lt;/strong&gt; – IIT Kharagpur&lt;br&gt;&#xA;Gold Medalist (April 2019)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cover Letter</title>
+      <link>http://localhost:1313/Portfolio/docs/cover-letter/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/docs/cover-letter/</guid>
+      <description>&lt;h1 id=&#34;cover-letter&#34;&gt;&#xA;  Cover Letter&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cover-letter&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Dear Recruiter,&lt;/p&gt;&#xA;&lt;p&gt;I am excited to apply for opportunities in Machine Learning and Artificial Intelligence. With a strong academic foundation from IIT Gandhinagar and hands-on experience building scalable AI systems for global clients, I thrive at the intersection of research and real-world impact. My expertise spans LLMs, NLP, computer vision, and MLOps, and I have a proven track record of delivering innovative solutions in legal tech, document automation, and knowledge management.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

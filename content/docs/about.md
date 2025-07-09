@@ -7,6 +7,8 @@ type = "docs"
 weight = 10
 +++
 
+<img src="/Portfolio/photo.jpg" alt="Sudip Das" style="border-radius: 40px; width: 170px; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;">
+
 # Sudip Das
 
 **Machine Learning Engineer**  
@@ -50,7 +52,7 @@ I am a Machine Learning Engineer with a strong background in AI, NLP, Computer V
 - **Continuous Learner:** Enjoy experimenting with new tools, frameworks, and open-source projects, and sharing insights with the community.
 - **Other Interests:** Enjoy strategy games, tech podcasts, and connecting with like-minded innovators.
 
-[Download Resume (PDF)]({{ "cv.pdf" | relURL }})
+[Download Resume (PDF)](/cv.pdf)
 
 ---
 
