@@ -16,7 +16,7 @@ type = "docs"
 
 ## Professional Summary
 
-Machine Learning Engineer with advanced expertise in AI, NLP, Computer Vision, and Generative AI. Experienced in building scalable, production-grade ML systems, LLMs, RAG, prompt engineering, and MLOps. Proven track record delivering impactful solutions in legal tech, document automation, and AI-powered platforms for global clients.
+Hi! I am an Machine Learning Engineer with advanced expertise in AI, NLP, Computer Vision, and Generative AI. Experienced in building scalable, production-grade ML systems, LLMs, RAG, prompt engineering, and MLOps. Proven track record delivering impactful solutions in legal tech, document automation, and AI-powered platforms for global clients.
 
 ---
 
