@@ -52,7 +52,7 @@ I am a Machine Learning Engineer with a strong background in AI, NLP, Computer V
 - **Continuous Learner:** Enjoy experimenting with new tools, frameworks, and open-source projects, and sharing insights with the community.
 - **Other Interests:** Enjoy strategy games, tech podcasts, and connecting with like-minded innovators.
 
-[Download Resume (PDF)](/cv.pdf)
+[Download Resume (PDF)](/Portfolio/cv.pdf)
 
 ---
 
