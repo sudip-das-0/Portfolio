@@ -9,15 +9,18 @@ weight = 50
 
 # Cover Letter
 
-Dear Recruiter,
+Holla Companion!
 
-I am excited to apply for opportunities in Machine Learning and Artificial Intelligence. With a strong academic foundation from IIT Gandhinagar and hands-on experience building scalable AI systems for global clients, I thrive at the intersection of research and real-world impact. My expertise spans LLMs, NLP, computer vision, and MLOps, and I have a proven track record of delivering innovative solutions in legal tech, document automation, and knowledge management.
+I'm excited to apply for opportunities in Machine Learning with a specialisation of NLP and GenAI. With a strong academic and research foundation from IIT Gandhinagar and real-world experience building scalable AI systems for clients from Newzealand, Germany and USA, I bring both technical depth and a drive to solve meaningful problems.
 
-What sets me apart is my passion for continuous learning and my drive to stay at the forefront of technology. I regularly read the latest research papers and experiment with state-of-the-art models, always seeking new ways to push the boundaries of what's possible. My curiosity extends beyond code—I am a tech enthusiast who follows the latest in computer hardware, GPUs, and AI infrastructure, ensuring that my solutions are both cutting-edge and efficient.
+Over the past few years, I’ve been deeply immersed in the world of Generative AI—exploring how large language models can move beyond demos and into production-grade systems. I’m passionate about bridging innovation and utility: making complex systems accessible, efficient, and useful for real users. 
+While I haven’t contributed much to open source yet, I’ve built internal platforms that are modular, reusable, and open-source in spirit. Given the opportunity, I’m confident I can bring that same level of clarity and impact to public projects—and I’m eager to grow while doing it.
 
-Outside of work, I find inspiration in anime and manga, especially series like One Piece and Haikyu, which fuel my creativity and remind me of the value of perseverance, teamwork, and adventure. I believe that a great engineer is not just defined by technical skills, but by a growth mindset, adaptability, and a genuine passion for building the future.
+What sets me apart is my relentless curiosity. I actively follow new research, experiment with state-of-the-art models, and stay up to date with the latest in computer hardware, GPUs, and AI infrastructure to ensure my solutions are both forward-looking and efficient. I also have three papers under my belt. Outside of tech, I draw inspiration from anime and manga—especially series like One Piece and Haikyu!!—which remind me of the importance of perseverance, teamwork, and dreaming big.
 
-I am eager to bring my skills, curiosity, and energy to your team, and to contribute to projects that make a real difference. Thank you for considering my application.
+All I ask for is a chance to prove myself. I bring with me not just technical skills, but a growth mindset, adaptability, and a genuine passion for building what’s next. I’d love to contribute to your team and help shape the future together.
 
-Sincerely,  
+Thank you for considering my application.
+
+Best regards,
 Sudip Das
