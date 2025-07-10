@@ -22,5 +22,5 @@ All I ask for is a chance to prove myself. I bring with me not just technical sk
 
 Thank you for considering my application.
 
-Best regards,
+Best regards, \
 Sudip Das
