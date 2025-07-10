@@ -11,7 +11,7 @@ weight = 50
 
 Holla Companion!
 
-I'm excited to apply for opportunities in Machine Learning with a specialisation of NLP and GenAI. With a strong academic and research foundation from IIT Gandhinagar and real-world experience building scalable AI systems for clients from Newzealand, Germany and USA, I bring both technical depth and a drive to solve meaningful problems.
+I'm excited to apply for opportunities in Machine Learning with a specialisation of NLP and GenAI. With a strong academic and research foundation from IIT Gandhinagar and real-world experience building scalable AI systems for clients from New Zealand, Germany and USA, I bring both technical depth and a drive to solve meaningful problems.
 
 Over the past few years, I’ve been deeply immersed in the world of Generative AI—exploring how large language models can move beyond demos and into production-grade systems. I’m passionate about bridging innovation and utility: making complex systems accessible, efficient, and useful for real users. 
 While I haven’t contributed much to open source yet, I’ve built internal platforms that are modular, reusable, and open-source in spirit. Given the opportunity, I’m confident I can bring that same level of clarity and impact to public projects—and I’m eager to grow while doing it.
